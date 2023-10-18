@@ -16,3 +16,22 @@
     border-radius: 9px;
     cursor: pointer;
 }
+.watch1, .shoes2, .bag3{
+    padding: 20px 20px;
+    border-radius: 15px;
+}
+.watch1{
+    background-color: peru;
+}
+.shoes2{
+    background-color: orchid;
+}
+.bag3{
+    background-color: blue;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 150px;
+}
